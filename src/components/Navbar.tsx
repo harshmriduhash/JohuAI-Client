@@ -111,7 +111,7 @@ const Navbar: React.FC = () => {
           </svg>
           <SparklesText text="Johu AI" />
           {/* <span className="text-white text-lg font-medium uppercase">
-            
+
           </span> */}
         </div>
 
